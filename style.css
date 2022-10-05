@@ -1,0 +1,28 @@
+nav{
+    padding-top: 1rem;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    /* width: 93%; */
+    margin: auto;
+    /* margin-right: 5rem; */
+    background: black;
+    color: white;
+    padding: 0%;
+}
+
+
+ ul{
+    display: flex;
+    justify-content: space-evenly;
+    /* margin:auto */
+    
+
+}
+
+
+li{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5rem;
+}
